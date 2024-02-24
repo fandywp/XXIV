@@ -4,6 +4,6 @@ window.onload = () => {
         clearTimeout(c);
         // Menampilkan alert
         alert("haloooo");
-        alert("semangat semoga balance selaluu🤩")
+        alert("semangat semoga balance selaluu bi🤩")
     }, 1000);
 };
